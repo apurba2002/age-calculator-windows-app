@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "age-calculator", "age-calculator.csproj", "{B7FE1C1C-30BB-4C5A-ADAA-C40E8AA8B862}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "age calculator installation", "..\age calculator installation\age calculator installation.vdproj", "{433DB7C9-143D-48EB-BB11-05AB4B234A32}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "age calculator Setup", "..\age calculator Setup\age calculator Setup.vdproj", "{B1FE112B-12BB-40A6-AD0E-174AF9552DAD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "age calculator setup", "D:\software made by me\age calculator setup\age calculator setup.vdproj", "{2E1D2D8E-A476-498D-AFA1-4157F71F8CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FE1C1C-30BB-4C5A-ADAA-C40E8AA8B862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FE1C1C-30BB-4C5A-ADAA-C40E8AA8B862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FE1C1C-30BB-4C5A-ADAA-C40E8AA8B862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FE1C1C-30BB-4C5A-ADAA-C40E8AA8B862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433DB7C9-143D-48EB-BB11-05AB4B234A32}.Debug|Any CPU.ActiveCfg = Debug
+		{433DB7C9-143D-48EB-BB11-05AB4B234A32}.Release|Any CPU.ActiveCfg = Release
+		{B1FE112B-12BB-40A6-AD0E-174AF9552DAD}.Debug|Any CPU.ActiveCfg = Debug
+		{B1FE112B-12BB-40A6-AD0E-174AF9552DAD}.Release|Any CPU.ActiveCfg = Release
+		{2E1D2D8E-A476-498D-AFA1-4157F71F8CA2}.Debug|Any CPU.ActiveCfg = Debug
+		{2E1D2D8E-A476-498D-AFA1-4157F71F8CA2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02798EC7-AEAB-4B19-8FBF-15B99ABC6F2E}
+	EndGlobalSection
+EndGlobal

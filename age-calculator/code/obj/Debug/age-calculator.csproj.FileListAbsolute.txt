@@ -1,0 +1,11 @@
+E:\c# job report\age-calculator\bin\Debug\age-calculator.exe.config
+E:\c# job report\age-calculator\bin\Debug\age-calculator.exe
+E:\c# job report\age-calculator\bin\Debug\age-calculator.pdb
+E:\c# job report\age-calculator\obj\Debug\age-calculator.csproj.AssemblyReference.cache
+E:\c# job report\age-calculator\obj\Debug\age-calculator.csproj.SuggestedBindingRedirects.cache
+E:\c# job report\age-calculator\obj\Debug\age_calculator.Form1.resources
+E:\c# job report\age-calculator\obj\Debug\age_calculator.Properties.Resources.resources
+E:\c# job report\age-calculator\obj\Debug\age-calculator.csproj.GenerateResource.cache
+E:\c# job report\age-calculator\obj\Debug\age-calculator.csproj.CoreCompileInputs.cache
+E:\c# job report\age-calculator\obj\Debug\age-calculator.exe
+E:\c# job report\age-calculator\obj\Debug\age-calculator.pdb
